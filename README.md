@@ -2,7 +2,7 @@
 
 An interactive Power BI business intelligence dashboard analyzing workforce patterns, turnover rates, and retention drivers across corporate departments.
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
